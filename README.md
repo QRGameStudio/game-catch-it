@@ -2,4 +2,4 @@
 
 ## Try it
 
-![QR code](https://api.qgo.eu/game/<GameID>/image?s=<GameSecret>)
+![QR code](https://api.qgo.eu/game/grs.aliens/image?s=ALIENS)
